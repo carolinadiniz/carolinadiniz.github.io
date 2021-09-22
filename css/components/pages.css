@@ -9,25 +9,25 @@
     border-bottom: 10px solid black;
 }
 
-.skills {
+#skills {
     background-color: #F98DCE;
     height: 740px;
     border-bottom: 10px solid #9D8CCE;
 }
 
-.project {
+#project {
     background-color: black;
     height: 520px;
     border-bottom: 10px solid #F98DCE;
 }
 
-.about {
+#about {
     background-color: #9D8CCE;
     height: 783px;
     border-bottom: 10px solid black;
 }
 
-.contact {
+#contact {
     background-color: #3A4042;
     height: 862px;
     border-bottom: 10px solid black;
