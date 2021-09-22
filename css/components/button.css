@@ -1,0 +1,32 @@
+
+#button {
+    display: inline-block;
+    margin-right: 0px;
+}
+
+
+.buttons {
+    display: inline-block;
+    background-color: #F98DCE;
+    padding: 18px 20px;
+    box-shadow: 5px 5px 0px black;
+    font-family: "Fira Code", Arial, Helvetica, sans-serif;
+    font-weight: 500;
+    font-size: 20px;
+    color: white;
+    transition: transform 150ms linear;
+}
+.buttons:hover {
+    transform: scale(1.05);
+    background-color: #faabdb;
+}
+
+
+.banner-buttons {
+    margin-top: 38px;
+    margin-left: 181px;
+}
+
+.banner-buttons .buttons {
+    margin-right: 112px;
+}

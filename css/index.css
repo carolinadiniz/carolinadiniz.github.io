@@ -16,6 +16,10 @@ nav {
 }
 
 a {
+    text-decoration: none;
+}
+
+.header-page a {
     display: inline-flex;
     align-items: center;
     color: white;
@@ -26,7 +30,7 @@ a {
     margin-right: 30px;
 }
 
-a::before {
+.header-page a::before {
     content: "";
     background-color: #F98DCE;
     width: 10px;
@@ -34,40 +38,3 @@ a::before {
     margin-right: 10px;
 }
 
-
-#button {
-    display: inline-block;
-    background-color: #F98DCE;
-    padding: 18px 20px;
-    box-shadow: 5px 5px 0px black;
-    margin-right: 0px;
-    transition: transform 150ms linear;
-}
-#button:hover {
-    transform: scale(1.05);
-    background-color: #faabdb;
-}
-
-.title {
-    display: inline-block;
-    background-color: #3A4042;
-    width: 627px;
-    height: 184px;
-    font-family: "Press Start 2p";
-    font-weight: 400;
-    text-align: center;
-    text-shadow: 4px 4px black;
-    margin-top: 116px;
-    margin-left: 91px;
-    box-shadow: 10px 10px black;
-}
-.title h1 {
-    font-size: 40px;
-    color: #F98DCE;
-    padding-top: 43px;
-    padding-bottom: 36px;
-}
-.title h2 {
-    font-size: 26px;
-    color: #FFFFFF;
-}
