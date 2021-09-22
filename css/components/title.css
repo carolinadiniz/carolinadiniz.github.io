@@ -1,4 +1,4 @@
-.title {
+.title-banner {
     display: inline-block;
     background-color: #3A4042;
     width: 627px;
@@ -11,13 +11,14 @@
     margin-left: 91px;
     box-shadow: 10px 10px black;
 }
-.title h1 {
+.title-banner h1 {
     font-size: 40px;
     color: #F98DCE;
     padding-top: 43px;
     padding-bottom: 36px;
 }
-.title h2 {
+.title-banner h2 {
     font-size: 26px;
     color: #FFFFFF;
 }
+

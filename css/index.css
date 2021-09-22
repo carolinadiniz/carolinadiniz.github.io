@@ -19,6 +19,15 @@ a {
     text-decoration: none;
 }
 
+h1 {
+    text-align: center;
+    font-family: "Press Start 2P";
+    font-size: 40px;
+    color: white;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
 .header-page a {
     display: inline-flex;
     align-items: center;
@@ -36,15 +45,4 @@ a {
     width: 10px;
     height: 10px;
     margin-right: 10px;
-}
-
-.banner {
-    background: no-repeat, url('../assets/img/banner.jpg') ;
-    background-color: black;
-    background-size: 100%;
-    background-attachment: inherit;
-    background-repeat: no-repeat;
-    background-position-y: center;
-    height: 797px;
-    border-bottom: 10px solid black;
 }

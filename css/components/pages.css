@@ -1,0 +1,34 @@
+.banner {
+    background: no-repeat, url('../../assets/img/banner.jpg') ;
+    background-color: black;
+    background-size: 100%;
+    background-attachment: inherit;
+    background-repeat: no-repeat;
+    background-position-y: center;
+    height: 797px;
+    border-bottom: 10px solid black;
+}
+
+.skills {
+    background-color: #F98DCE;
+    height: 740px;
+    border-bottom: 10px solid #9D8CCE;
+}
+
+.project {
+    background-color: black;
+    height: 520px;
+    border-bottom: 10px solid #F98DCE;
+}
+
+.about {
+    background-color: #9D8CCE;
+    height: 783px;
+    border-bottom: 10px solid black;
+}
+
+.contact {
+    background-color: #3A4042;
+    height: 862px;
+    border-bottom: 10px solid black;
+}
