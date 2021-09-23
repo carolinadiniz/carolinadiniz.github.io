@@ -22,3 +22,30 @@ h1 {
     padding-bottom: 50px;
 }
 
+#project {
+    text-align: center;
+    background-color: black;
+    height: 520px;
+    border-bottom: 10px solid #F98DCE;
+}
+
+#project img {
+    width: 280px;
+    height: 280px;
+    margin-right: 78px;
+    margin-left: 78px;
+    box-shadow: 10px 10px white;
+}
+
+#about {
+    background-color: #9D8CCE;
+    height: 783px;
+    border-bottom: 10px solid black;
+}
+
+#contact {
+    background-color: #3A4042;
+    height: 862px;
+    border-bottom: 10px solid black;
+}
+
