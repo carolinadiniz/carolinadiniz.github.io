@@ -1,10 +1,10 @@
-
 #skills {
     text-align: center;
     background-color: #F98DCE;
     height: 740px;
     border-bottom: 10px solid #9D8CCE;
 }
+
 #skills ul {
     display: inline-block;
     text-align:left;
@@ -16,9 +16,11 @@
     margin-right: 50px;
     margin-left: 50px;
 }
+
 #skills li {
     margin-bottom: 38px;
 }
+
 #skills li::after {
     background-color: black;
 }

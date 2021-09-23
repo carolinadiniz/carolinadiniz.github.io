@@ -1,10 +1,4 @@
-header {
-    display: flex;
-    justify-content: space-between;
-    background-color: #9d8cce;
-    border-bottom: 10px solid black;
-    padding: 10px 20px;
-}
+
 
 #img-logo {
     max-width: 60px;
@@ -28,21 +22,3 @@ h1 {
     padding-bottom: 50px;
 }
 
-.header-page a {
-    display: inline-flex;
-    align-items: center;
-    color: white;
-    font-size: 20px;
-    font-family: "Fira Code", Arial, Helvetica, sans-serif;
-    font-weight: 500;
-    text-decoration: none;
-    margin-right: 30px;
-}
-
-.header-page a::before {
-    content: "";
-    background-color: #F98DCE;
-    width: 10px;
-    height: 10px;
-    margin-right: 10px;
-}
