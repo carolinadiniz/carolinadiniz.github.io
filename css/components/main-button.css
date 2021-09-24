@@ -17,3 +17,11 @@
     transform: scale(1.05);
     background-color: #faabdb;
 }
+
+.main-button.-full {
+    width: 100%;
+}
+
+.main-button.-full:hover {
+    transform: scale(1.01);
+}
