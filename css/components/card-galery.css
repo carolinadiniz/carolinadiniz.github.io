@@ -1,0 +1,16 @@
+.card-galery {
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    background-color: white;
+    border: 5px solid rgb(255, 251, 251);
+}
+
+.card-galery img {
+    max-height: 300px;
+    transition: transform .5s ease;
+}
+
+.card-galery:hover img {
+    transform: scale(1.3);
+}
